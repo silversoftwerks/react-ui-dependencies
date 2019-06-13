@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@SS/design-system": "file:///mnt/c/Users/scsil/code/silver-softwerks/design-system",
-    "@SS/html-template": "file:///mnt/c/Users/scsil/code/silver-softwerks/html-template",
+    "@SS/html-template": "git+https://github.com/silversoftwerks/html-template.git",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   },
